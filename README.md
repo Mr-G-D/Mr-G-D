@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Mr-G-D/Mr-G-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 [![HitCount](http://hits.dwyl.com/Mr-G-D/Mr-G-D.svg)](http://hits.dwyl.com/Mr-G-D/Mr-G-D)
 
 Here are some ideas to get you started:
