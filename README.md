@@ -10,6 +10,6 @@ Something about me:
 - 👯 I’m looking to collaborate on game development
 - 🤔 I’m looking for help with cryptography
 - 💬 Ask me about technology
-- 📫 How to reach me: [Linkedin] (https://www.linkedin.com/in/dinesh-kumar-5273a8195/)
+- 📫 How to reach me: [![HitCount](http://hits.dwyl.com/Mr-G-D/Mr-G-D.svg)](http://hits.dwyl.com/Mr-G-D/Mr-G-D)
 - 😄 Pronouns: Developer
 - ⚡ Fun fact: I love wheels
