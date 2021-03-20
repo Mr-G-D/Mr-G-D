@@ -10,6 +10,6 @@ Something about me:
 - 👯 I’m looking to collaborate on game development
 - 🤔 I’m looking for help with cryptography
 - 💬 Ask me about technology
-- 📫 How to reach me: ![button url="http://www.google.com"](https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png)
+- 📫 How to reach me: {% include button.html url="http://www.google.com" %}
 - 😄 Pronouns: Developer
 - ⚡ Fun fact: I love wheels
