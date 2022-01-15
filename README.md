@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **developing my background.**
+- 🔭 I’m currently working on **buliding my background.**
 
-- 🌱 I’m currently learning **application development**
+- 🌱 I’m currently learning **data science**
 
 - 👯 I’m looking to collaborate on **game development**
 
 - 🤝 I’m looking for help with **ethical hacking**
 
-- 💬 Ask me about **tech stacks**
+- 💬 Ask me about **technology**
 
 - ⚡ Fun fact **I love wheels**
 
