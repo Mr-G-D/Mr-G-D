@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **game development**
 
-- 🤝 I’m looking for help with **ethical hacking**
+- 🤝 I’m looking for help with **Crypto**
 
 - 💬 Ask me about **technology**
 
