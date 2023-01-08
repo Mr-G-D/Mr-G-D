@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on buliding my portfolio.<br><br>🌱 I’m currently learning data science<br><br>👯 I’m looking to collaborate on game development<br><br>🤝 I’m looking for help with Blockchain<br><br>💬 Ask me about technology<br><br>⚡ Fun fact I love wheels
+🔭 I’m currently working on buliding my portfolio<br><br>🌱 I’m currently learning data science<br><br>👯 I’m looking to collaborate on game development<br><br>🤝 I’m looking for help with Blockchain<br><br>💬 Ask me about technology<br><br>⚡ Fun fact I love wheels
 
 
 ## 🌐 Socials:
