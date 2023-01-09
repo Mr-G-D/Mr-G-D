@@ -6,6 +6,7 @@
 🔭 I’m currently working on buliding my portfolio<br><br>🌱 I’m currently learning data science<br><br>👯 I’m looking to collaborate on game development<br><br>🤝 I’m looking for help with Blockchain<br><br>💬 Ask me about technology<br><br>⚡ Fun fact I love wheels
 
 
+
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/dinesh kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dinesh kumar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/daredinesh00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="daredinesh00" height="30" width="40" /></a>
