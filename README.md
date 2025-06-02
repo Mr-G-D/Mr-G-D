@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/dinesh kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dinesh kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dinesh-kumar-5273a8195/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dinesh kumar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/daredinesh00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="daredinesh00" height="30" width="40" /></a>
 
 # 💻 Tech Stack:
